@@ -3,7 +3,7 @@ Version:	61614
 Release:	2
 Summary:	LaTeX package for drawing karnaugh maps with up to 6 variables
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/karnaugh-map
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/karnaugh-map
 License:	cc-by-sa-3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/karnaugh-map.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/karnaugh-map.doc.r%{version}.tar.xz
